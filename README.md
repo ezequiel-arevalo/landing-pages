@@ -44,8 +44,3 @@ Cada carpeta dentro de este repositorio es una landing page independiente. Cada 
 - React
 - Figma
 - Buenas prácticas de SEO y accesibilidad
-
-## 📬 Contacto
-- 🌐 **LinkedIn:** [Ezequiel Arevalo](https://www.linkedin.com/in/ezequiel-arevalo/)  
-- 💼 **Portfolio:** [Explora mi trabajo](https://www.ezequiel-arevalo.com)  
-- 📧 **Email:** ezequiel-arevalo@outlook.com  
