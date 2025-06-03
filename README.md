@@ -3,8 +3,6 @@
 Bienvenido al mono-repo de **landing-pages**, en este repositorio es donde experimento y practico el desarrollo de landing pages usando diferentes tecnologías, estilos y enfoques.  
 El objetivo de este mono-repo es mejorar continuamente mis habilidades en **HTML semántico**, **CSS**, **accesibilidad**, **SEO**, **diseño responsive**, y uso de herramientas modernas como **Tailwind CSS**, **Bootstrap**, **React**, **Vite**, etc.
 
----
-
 ## 🧠 Objetivos del repositorio
 
 - Aplicar buenas prácticas de maquetado semántico con HTML5.
@@ -12,8 +10,6 @@ El objetivo de este mono-repo es mejorar continuamente mis habilidades en **HTML
 - Explorar distintos stacks: desde HTML puro hasta React + Tailwind.
 - Documentar cada proyecto con estructura profesional.
 - Practicar integración visual a partir de diseños en Figma.
-
----
 
 ## 📦 Contenido
 
@@ -30,8 +26,6 @@ Cada carpeta dentro de este repositorio es una landing page independiente. Cada 
   - Buenas prácticas aplicadas
   - Lo aprendido o practicado
 
----
-
 ## 📁 Lista de proyectos
 
 | Carpeta                      | Descripción                             | Stack principal     | Deploy              | Repositorio                                                                                               |
@@ -39,8 +33,6 @@ Cada carpeta dentro de este repositorio es una landing page independiente. Cada 
 | `landing-agencia-creativa/`  | Agencia ficticia de diseño digital      | HTML + CSS          | [Preview](https://github.com/ezequiel-arevalo/landing-pages/tree/main/)          | [Repositorio](https://github.com/ezequiel-arevalo/landing-pages/tree/main/)          |
 
 > 📌 Esta lista irá creciendo a medida que desarrollo más landings.
-
----
 
 ## 🛠️ Tecnologías exploradas
 
@@ -53,18 +45,7 @@ Cada carpeta dentro de este repositorio es una landing page independiente. Cada 
 - Figma
 - Buenas prácticas de SEO y accesibilidad
 
----
-
-## 👨‍💻 Autor
-
-**Ezequiel Arevalo**  
-Frontend Developer en formación, enfocado en construir experiencias web accesibles, semánticas y bien estructuradas.
-
----
-
 ## 📬 Contacto
 - 🌐 **LinkedIn:** [Ezequiel Arevalo](https://www.linkedin.com/in/ezequiel-arevalo/)  
 - 💼 **Portfolio:** [Explora mi trabajo](https://www.ezequiel-arevalo.com)  
 - 📧 **Email:** ezequiel-arevalo@outlook.com  
-
----
